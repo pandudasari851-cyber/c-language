@@ -1,2 +1,2 @@
-# c-language
-Iam excited to share c programs
+# C-AND-DS
+programs on data structures using C language
